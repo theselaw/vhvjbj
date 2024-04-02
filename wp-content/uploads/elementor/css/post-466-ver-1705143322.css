@@ -1,0 +1,22 @@
+.elementor-466 .elementor-element.elementor-element-1fa377f0{padding:60px 0px 60px 0px;}.elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-element-populated, .elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-element-populated > .elementor-background-overlay, .elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-background-slideshow{border-radius:8px 8px 8px 8px;}.elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-element-populated{transition:background 0.3s, border 0.3s, border-radius 0.3s, box-shadow 0.3s;padding:30px 30px 30px 30px;}.elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-element-populated > .elementor-background-overlay{transition:background 0.3s, border-radius 0.3s, opacity 0.3s;}.elementor-466 .elementor-element.elementor-element-668f96fd .elementor-heading-title{font-family:var( --e-global-typography-primary-font-family ), Sans-serif;font-size:var( --e-global-typography-primary-font-size );font-weight:var( --e-global-typography-primary-font-weight );line-height:var( --e-global-typography-primary-line-height );}.elementor-466 .elementor-element.elementor-element-668f96fd > .elementor-widget-container{margin:0px 0px 30px 0px;}.elementor-466 .elementor-element.elementor-element-45be4719{color:var( --e-global-color-primary );font-family:var( --e-global-typography-secondary-font-family ), Sans-serif;font-size:var( --e-global-typography-secondary-font-size );font-weight:var( --e-global-typography-secondary-font-weight );line-height:var( --e-global-typography-secondary-line-height );}@media(max-width:1024px){.elementor-466 .elementor-element.elementor-element-1fa377f0{padding:60px 16px 60px 16px;}.elementor-466 .elementor-element.elementor-element-39bf694e > .elementor-element-populated{padding:16px 16px 16px 16px;}.elementor-466 .elementor-element.elementor-element-668f96fd .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-466 .elementor-element.elementor-element-668f96fd > .elementor-widget-container{margin:0px 0px 24px 0px;}.elementor-466 .elementor-element.elementor-element-45be4719{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );}}@media(max-width:767px){.elementor-466 .elementor-element.elementor-element-668f96fd .elementor-heading-title{font-size:var( --e-global-typography-primary-font-size );line-height:var( --e-global-typography-primary-line-height );}.elementor-466 .elementor-element.elementor-element-45be4719{font-size:var( --e-global-typography-secondary-font-size );line-height:var( --e-global-typography-secondary-line-height );}}/* Start custom CSS for theme-post-content, class: .elementor-element-45be4719 */.elementor-466 .elementor-element.elementor-element-45be4719 h1, .elementor-466 .elementor-element.elementor-element-45be4719 h2, .elementor-466 .elementor-element.elementor-element-45be4719 h3, .elementor-466 .elementor-element.elementor-element-45be4719 h4{
+    font-weight: 600;
+}
+.elementor-466 .elementor-element.elementor-element-45be4719 h1{
+    font-size: 2rem;
+}
+.elementor-466 .elementor-element.elementor-element-45be4719 h2{
+    font-size: 1.5rem;
+}
+.elementor-466 .elementor-element.elementor-element-45be4719 h3{
+    font-size: 1.25rem;
+}
+
+.elementor-466 .elementor-element.elementor-element-45be4719 ul{
+    padding-left: 25px;
+    margin: 20px 0;
+}
+
+.elementor-466 .elementor-element.elementor-element-45be4719 a{
+    color: var(--e-global-color-primary);
+    text-decoration: underline;
+}/* End custom CSS */
